@@ -1,9 +1,12 @@
 # spring-cloud-sleuth
 服务链路追踪
 
-start service-zipkin
-start service-hi
-start service-miya
+```shell
+    start service-zipkin
+    start service-hi
+    start service-miya
+
+```
 
 访问 http://localhost:8761/miya
 
